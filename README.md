@@ -2,7 +2,7 @@
 This is to track and record all the excel tricks
 
 
-* Contain text from a list or range
+* Contain text from a list or range [Reference!](https://www.get-digital-help.com/if-cell-contains-text-from-list/)
 
 If C2 to C10 is a list of text for A2 to A100 to find from, below function in B2 can be applied
 ```
