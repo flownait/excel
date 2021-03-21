@@ -3,6 +3,7 @@ This is to track and record all the excel tricks
 
 
 * Contain text from a list or range
+
 If C2 to C10 is a list of text for A2 to A100 to find from, below function in B2 can be applied
 ```
 =IF(OR(COUNTIF(A2,"*"&$C$3:$C$10&"*")), "Yes", "")
